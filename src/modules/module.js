@@ -1,10 +1,10 @@
 
 class Module {
-    constructor() {
-        this.name = 'Module';
-    }
+	constructor() {
+		this.name = 'Module';
+	}
 
-    getInfo () {
-        return 'New ' + this.name;
-    }
+	getInfo () {
+		return 'New ' + this.name;
+	}
 }
